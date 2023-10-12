@@ -8,3 +8,5 @@ This repository contains a function written in x86 Assembly (NASM) intended to b
 2. Compile the C Program: Write your C program that will call the assembly function. Compile the C program with your C compiler (e.g., GCC, Visual Studio, Clang) into an object file.
 
 3. Link the Object Files: Link the object files generated from both the assembly code and the C code into a single executable binary. This step is where you'll link the assembly function with the C program.
+
+Note: The project files contained in this repository can be used in Visual Studio 2019 with the NASM extension to demonstrate the functionality.
